@@ -63,8 +63,8 @@
 
 已实际测试：
 
-- `https://hydro.ac`（公开比赛列表、成绩表、5 题成绩表）
-- `https://yundouxueyuan.com/d/NOIPC/contest`（自定义主题、4 题成绩表）
+- `https://hydro.ac`（公开比赛列表、成绩表、批量/单场导出、5 题成绩表）
+- `https://yundouxueyuan.com/d/NOIPC/contest`（自定义主题、4 题成绩表页面结构验证）
 
 支持的路由：
 
